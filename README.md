@@ -1,4 +1,4 @@
-# etp1
+# electronic measuring technique 
 task_1  
 The task was to write a program using any tools and / or programming language that would execute in separate tabs  
 individual three guidelines:
